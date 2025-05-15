@@ -1,5 +1,6 @@
 streamlit
 google-generativeai
+google
 Pillow
 python-dotenv
 requests
